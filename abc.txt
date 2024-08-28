@@ -2,4 +2,6 @@ Hi
 
 feature1
 
+feature2
+
 bug fix
